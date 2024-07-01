@@ -5,6 +5,7 @@ import MasalaDosa from "../images/masala.jpg";
 import Paneer from "../images/paneer.jpg";
 import Gujrati from "../images/gujrati.jpeg";
 
+
 export const MenuList = [
   {
     id:1,
@@ -16,6 +17,9 @@ export const MenuList = [
     
 
   },
+
+
+
   {
     id:2,
     foodname: "Chola",
