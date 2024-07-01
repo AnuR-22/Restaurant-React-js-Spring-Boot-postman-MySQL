@@ -1,0 +1,18 @@
+.containers button {
+    background-color: #121619;
+    margin-top: 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    height: 50px;
+    width: 180px;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+  }
+  
+  .containers button:hover {
+    background-color: #07090a;
+    cursor: pointer;
+    transition: 0.3s ease-in;
+  }
